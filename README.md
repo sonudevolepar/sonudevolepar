@@ -2,6 +2,7 @@
 i'm sonu kumar <br>currently pursuing B.TECH in (cse)<br>working on MERN STACK <br>learning and growing<br>
 <!---info-->
 <!--- hello --->
+<!--- hello --->
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sonu-kumar-032b5130a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonu9508kr@gmail.com) 
 
